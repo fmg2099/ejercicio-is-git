@@ -17,6 +17,9 @@ En este ejercicio, el alumno deberá colocar el dato correspondiente en la sigui
 | Santiago     | Celda 2,2       | 
 | Alejandro    | Celda 2,2       | 
 
+Colocando "backticks" (`) antes y después del texto se despliega como codigo:
 
+`git push origin master`
+`const onPress = () => {console.log('hola mundo')}`
 
 
