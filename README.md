@@ -11,11 +11,11 @@ En este ejercicio, el alumno deberá colocar el dato correspondiente en la sigui
 | Alumno       | Hobbie favorito |
 |--------------|-----------------|
 | Damián       |Música (Guitarra)| 
-| Rafael       | Ejercicio       | 
-| Fabián       | Películas       |  
-| Ángel        | Jugar videojuegos| 
+| Rafael       |    Ejercicio    | 
+| Fabián       |    Películas    |  
+| Ángel        |Jugar videojuegos| 
 | Santiago     | Escuchar música | 
-| Alejandro    | D&D       |  
+| Alejandro    |       D&D       |  
 
 
 Colocando "backticks" (`) antes y después del texto se despliega como codigo:
