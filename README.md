@@ -10,7 +10,7 @@ En este ejercicio, el alumno deberá colocar el dato correspondiente en la sigui
 
 | Alumno       | Hobbie favorito |
 |--------------|-----------------|
-| Damián       | Celda 1,2       | 
+| Damián       |Música (Guitarra)| 
 | Rafael       | Celda 2,2       | 
 | Fabián       | Celda 2,2       | 
 | Ángel        | Celda 2,2       | 
