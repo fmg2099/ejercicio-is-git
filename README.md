@@ -10,11 +10,11 @@ En este ejercicio, el alumno deberá colocar el dato correspondiente en la sigui
 
 | Alumno       | Hobbie favorito |
 |--------------|-----------------|
-| Damián       | Celda 1,2       | 
+| Damián       |Música (Guitarra)| 
 | Rafael       | Celda 2,2       | 
-| Fabián       | Celda 2,2       | 
+| Fabián       | Películas       |  
 | Ángel        | Jugar videojuegos| 
-| Santiago     | Celda 2,2       | 
+| Santiago     | Escuchar música | 
 | Alejandro    | Celda 2,2       | 
 
 Colocando "backticks" (`) antes y después del texto se despliega como codigo:
