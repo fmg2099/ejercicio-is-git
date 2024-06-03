@@ -11,7 +11,7 @@ En este ejercicio, el alumno deberá colocar el dato correspondiente en la sigui
 | Alumno       | Hobbie favorito |
 |--------------|-----------------|
 | Damián       |Música (Guitarra)| 
-| Rafael       | Celda 2,2       | 
+| Rafael       | Ejercicio       | 
 | Fabián       | Películas       |  
 | Ángel        | Jugar videojuegos| 
 | Santiago     | Escuchar música | 
