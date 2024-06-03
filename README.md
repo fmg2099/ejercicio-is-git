@@ -12,7 +12,7 @@ En este ejercicio, el alumno deberá colocar el dato correspondiente en la sigui
 |--------------|-----------------|
 | Damián       | Celda 1,2       | 
 | Rafael       | Celda 2,2       | 
-| Fabián       | Celda 2,2       | 
+| Fabián       | Películas       | 
 | Ángel        | Celda 2,2       | 
 | Santiago     | Celda 2,2       | 
 | Alejandro    | Celda 2,2       | 
