@@ -14,7 +14,7 @@ En este ejercicio, el alumno deberá colocar el dato correspondiente en la sigui
 | Rafael       | Celda 2,2       | 
 | Fabián       | Películas       | 
 | Ángel        | Celda 2,2       | 
-| Santiago     | Celda 2,2       | 
+| Santiago     | Escuchar música | 
 | Alejandro    | Celda 2,2       | 
 
 Colocando "backticks" (`) antes y después del texto se despliega como codigo:
