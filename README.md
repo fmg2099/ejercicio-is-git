@@ -12,8 +12,8 @@ En este ejercicio, el alumno deberá colocar el dato correspondiente en la sigui
 |--------------|-----------------|
 | Damián       |Música (Guitarra)| 
 | Rafael       | Celda 2,2       | 
-| Fabián       | Películas       | 
-| Ángel        | Celda 2,2       | 
+| Fabián       | Películas       |  
+| Ángel        | Jugar videojuegos| 
 | Santiago     | Escuchar música | 
 | Alejandro    | Celda 2,2       | 
 
